@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Wagner Gonçalves",
+      "email": "wagner@cod3r.com.br"
+    },
+    {
+      "id": 2,
+      "name": "Ana Silva",
+      "email": "ana@cod3r.com.br"
+    },
+    {
+      "name": "Karine Gonçalves",
+      "email": "karine@gmail.com",
+      "id": 3
+    }
+  ]
+}
