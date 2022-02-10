@@ -2,6 +2,5 @@
 
 - Curso React da Cod3r
 
-<p align="center>
-          <img width="300" height="300" src="src/assets/to_readme/cadastro-react.gif">
-  </p>
+![cadastro-react](https://github.com/WagnerTerry/Crud-cadastro-usuario/blob/master/src/assets/to_readme/cadastro-react.gif)
+ 
