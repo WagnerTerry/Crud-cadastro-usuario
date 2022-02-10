@@ -3,5 +3,5 @@
 - Curso React da Cod3r
 
 <p align="center>
-          <img src="src/to_readme/cadastro-react.gif>
+          <img width="300" height="300" src="src/assets/to_readme/cadastro-react.gif">
   </p>
